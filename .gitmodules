@@ -1,0 +1,3 @@
+[submodule "cmake-embedded"]
+	path = cmake-embedded
+	url = https://github.com/danielotero/cmake-embedded.git
